@@ -1,2 +1,2 @@
-# config-interop
+# Configuration Interoperability
 Promoting the interoperability of configuration objects
