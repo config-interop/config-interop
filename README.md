@@ -12,5 +12,3 @@ You can install this package through Composer:
 ``` bash
 $ composer require config-interop/config-interop:dev-master
 ```
-
-The packages adheres to the [SemVer](http://semver.org/) specification, and there will be full backward compatibility between minor versions.
