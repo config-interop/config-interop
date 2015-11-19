@@ -1,5 +1,7 @@
 # Configuration Interoperability
 
+[![Latest Unstable Version](https://poser.pugx.org/config-interop/config-interop/v/unstable)](https://packagist.org/packages/config-interop/config-interop)
+
 *config-interop* tries to identify and standardize features in *configuration* objects to achieve interoperability.
 It is strongly inspired by [container-interop](https://github.com/container-interop/container-interop).
 
@@ -8,7 +10,7 @@ It is strongly inspired by [container-interop](https://github.com/container-inte
 You can install this package through Composer:
 
 ``` bash
-$ composer require config-interop/config-interop
+$ composer require config-interop/config-interop:dev-master
 ```
 
 The packages adheres to the [SemVer](http://semver.org/) specification, and there will be full backward compatibility between minor versions.
