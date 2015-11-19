@@ -1,0 +1,11 @@
+{
+    "name": "config-interop/config-interop",
+    "type": "library",
+    "description": "Promoting the interoperability of configuration objects",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Interop\\Config\\": "src/Interop/Config/"
+        }
+    }
+}
